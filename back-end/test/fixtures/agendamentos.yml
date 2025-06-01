@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  horario: 2025-05-26 16:36:23
+  paciente: one
+  medicamento: one
+
+two:
+  horario: 2025-05-26 16:36:23
+  paciente: two
+  medicamento: two
