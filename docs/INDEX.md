@@ -70,6 +70,7 @@ O aplicativo conta com as seguintes funcionalidades de alta prioridade:
 | **Eduarda Keila da Silva Moura** | DevOps | eduarda20230033064@alu.uern.br  |
 | **Cindy Vitória Alves de Araujo** | Desenvolvedora | araujocindy12@gmail.com  |
 | **Maria Eduarda Silva Pinto** | Desenvolvedora | maria20230022427@alu.uern.br  |
+| **Ana Beatriz Araújo Silva** | Desenvolvedora | anabaraujo009@gmail.com |
 
 ## 📜 Documentação e Padrões
 
