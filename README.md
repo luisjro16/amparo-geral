@@ -51,7 +51,7 @@ Este projeto está sendo desenvolvido por:
 * Larissa Ester Rodrigues Sales Justino
 * Luís Jerônimo Rodrigues Oliveira
 * Maria Eduarda Silva Pinto
-
+* Ana Beatriz Araújo Silva
 ---
 
 Feito com ❤️ pela equipe Amparo.
