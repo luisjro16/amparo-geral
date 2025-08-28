@@ -19,23 +19,24 @@ O aplicativo conta com as seguintes funcionalidades para seu funcionamento:
 
 | Característica | Descrição | Prioridade |
 | :--- | :--- | :---: |
-| **Notificações de Alarme** | Alarmes visuais e sonoros para lembrar o paciente sobre o horário da medicação. | Alta  |
-| **Confirmação de Tomada** | Sistema que exige a confirmação ativa da dose tomada pelo paciente ou cuidador. | Alta  |
-| **Registro de Doses e Histórico** | Registro automatizado e manual das doses administradas, com histórico acessível. | Alta  |
-| **Funcionalidade Offline** | Funcionamento completo mesmo sem acesso à internet. | Alta  |
-| **Interface Intuitiva e Acessível** | Design simples e acessível, com foco na usabilidade para idosos e pessoas com baixa alfabetização digital. | Alta  |
-| **Cadastro Personalizado de Medicamentos** | Possibilidade de o usuário cadastrar nome, dosagem, horários e outras informações sobre cada medicamento. | Alta  |
-| **Relatórios de Adesão** | Geração de relatórios para acompanhamento da adesão ao tratamento, podendo ser compartilhado. | Baixa  |
+| **Cadastro de Usuário** | O aplicativo deve garantir a autenticação do usuário a partir de um cadastro com informações simples coletadas por meio de um formulário. | Alta  |
+| **Cadastro Personalizado de Medicamentos** | O sistema deve possibilitar ao usuário cadastrar nome, dosagem, horários e outras informações sobre cada medicamento, a partir de um formulário de cadastro com informações sobre o medicamento. | Alta  |
+| **Registro de Doses e Histórico** | O aplicativo deve registrar de forma automatizada e possibilitar registro manual das doses, com histórico acessível para consulta. Dessa forma, se o usuário não tiver tomado a dose no momento do alarme, ela pode ser cadastrada posteriormente, mas será classificada de outra forma. | Alta  |
+| **Notificações de Alarme** | O sistema deve prover alarmes visuais e sonoros para lembrar o paciente sobre o horário da medicação. A aplicação deve estar sincronizada com o relógio do  | Alta  |
+| **Confirmação de Tomada** | O aplicativo deve exigir a confirmação ativa da dose tomada pelo paciente ou cuidador a partir de um botão na tela de alarme. | Alta  |
+| **Funcionalidade Offline** | O sistema deve ter seu funcionamento completo mesmo sem acesso à internet, com sincronização opcional quando disponível. | Alta  |
+| **Interface Intuitiva e Acessível** | A aplicação deve conter um design simples e acessível, com foco na usabilidade para idosos e pessoas com baixa alfabetização digital. | Alta  |
+| **Relatórios de Adesão** | O aplicativo deve gerar relatórios para acompanhamento da adesão ao tratamento, podendo ser compartilhado | Baixa  |
 
 ### Requisitos Não Funcionais
 
 | Tipo | Descrição | Prioridade |
 | :--- | :--- | :---: |
-| **Usabilidade** | Interface simples, com foco em acessibilidade para idosos e usuários com baixa alfabetização digital. | Alta  |
-| **Desempenho** | Baixo consumo de bateria e de recursos do dispositivo. | Alta  |
-| **Segurança** | Armazenamento local seguro, criptografia de dados sensíveis. | Alta  |
-| **Disponibilidade** | Operação offline total, sem necessidade de conexão para funcionalidades principais. | Alta  |
-| **Interface** | Compatível com dispositivos Android e iOS, com design responsivo e acessível. | Alta  |
+| **Usabilidade** | O aplicativo deve ter uma interface simples, com foco em acessibilidade para idosos e usuários com baixa alfabetização digital. | Alta  |
+| **Desempenho** | O sistema deve exigir baixo consumo de bateria e recursos do dispositivo garantindo funcionamento adequado mesmo em dispositivos com hardware limitado. | Alta  |
+| **Segurança** | O banco de dados da aplicação deve ter um armazenamento local seguro, com os dados sensíveis criptografados. | Alta  |
+| **Disponibilidade** | A aplicação deve gerenciar suas operações de forma totalmente offline, sem necessidade de conexão para funcionalidades principais. | Alta  |
+| **Interface** | O sistema deve ser compatível com dispositivos Android e iOS, com design responsivo e acessível. | Alta  |
 
 ## 🚀 Objetivos
 
