@@ -12,9 +12,10 @@ A gestão correta do uso de medicamentos representa um desafio recorrente, espec
 
 O Amparo foi proposto como uma solução para promover maior adesão ao tratamento, aumentar a autonomia dos pacientes, diminuir a sobrecarga dos cuidadores e prevenir complicações de saúde.
 
-## ✨ Características Principais
+## 🛠️ Requisitos Técnicos
+O aplicativo conta com as seguintes funcionalidades para seu funcionamento:
 
-O aplicativo conta com as seguintes funcionalidades de alta prioridade:
+### Requisitos Funcionais
 
 | Característica | Descrição | Prioridade |
 | :--- | :--- | :---: |
@@ -23,17 +24,8 @@ O aplicativo conta com as seguintes funcionalidades de alta prioridade:
 | **Registro de Doses e Histórico** | Registro automatizado e manual das doses administradas, com histórico acessível. | Alta  |
 | **Funcionalidade Offline** | Funcionamento completo mesmo sem acesso à internet. | Alta  |
 | **Interface Intuitiva e Acessível** | Design simples e acessível, com foco na usabilidade para idosos e pessoas com baixa alfabetização digital. | Alta  |
-
-## 🚀 Objetivos
-
-| Objetivo | Descrição |
-| :--- | :--- |
-| **Melhoria da adesão terapêutica** | Facilitar o gerenciamento do tratamento pelo paciente. |
-| **Redução de erros no uso de medicamentos**| Diminuir esquecimentos e a duplicação de doses. |
-| **Inclusão digital** | Oferecer uma solução acessível para um público com pouca familiaridade tecnológica. |
-| **Fortalecimento institucional** | Alinhar o projeto com as metas do PDTIC, promovendo a saúde digital. |
-
-## 🛠️ Requisitos Técnicos
+| **Cadastro Personalizado de Medicamentos** | Possibilidade de o usuário cadastrar nome, dosagem, horários e outras informações sobre cada medicamento. | Alta  |
+| **Relatórios de Adesão** | Geração de relatórios para acompanhamento da adesão ao tratamento, podendo ser compartilhado. | Baixa  |
 
 ### Requisitos Não Funcionais
 
@@ -44,6 +36,15 @@ O aplicativo conta com as seguintes funcionalidades de alta prioridade:
 | **Segurança** | Armazenamento local seguro, criptografia de dados sensíveis. | Alta  |
 | **Disponibilidade** | Operação offline total, sem necessidade de conexão para funcionalidades principais. | Alta  |
 | **Interface** | Compatível com dispositivos Android e iOS, com design responsivo e acessível. | Alta  |
+
+## 🚀 Objetivos
+
+| Objetivo | Descrição |
+| :--- | :--- |
+| **Melhoria da adesão terapêutica** | Facilitar o gerenciamento do tratamento pelo paciente. |
+| **Redução de erros no uso de medicamentos**| Diminuir esquecimentos e a duplicação de doses. |
+| **Inclusão digital** | Oferecer uma solução acessível para um público com pouca familiaridade tecnológica. |
+| **Fortalecimento institucional** | Alinhar o projeto com as metas do PDTIC, promovendo a saúde digital. |
 
 ### Especificações
 
