@@ -21,7 +21,7 @@ O aplicativo conta com as seguintes funcionalidades de alta prioridade:
 | **Notificações de Alarme** | Alarmes visuais e sonoros para lembrar o paciente sobre o horário da medicação. | Alta  |
 | **Confirmação de Tomada** | Sistema que exige a confirmação ativa da dose tomada pelo paciente ou cuidador. | Alta  |
 | **Registro de Doses e Histórico** | Registro automatizado e manual das doses administradas, com histórico acessível. | Alta  |
-| **Funcionalidade Offline** | Funcionamento completo mesmo sem acesso à internet. | Alta  |
+| **Gerenciamento de Estoque** | O sistema deve monitorar a quantidade de estoque de cada medicamento cadastrado pelo usuário. | Média  |
 | **Interface Intuitiva e Acessível** | Design simples e acessível, com foco na usabilidade para idosos e pessoas com baixa alfabetização digital. | Alta  |
 
 ## 🚀 Objetivos
